@@ -3,7 +3,7 @@
 | Task                                                         | Done? |
 | ------------------------------------------------------------ | ----- |
 | [Dynamic Programming](https://github.com/andy1li/udacity-reinforcement/blob/main/dynamic-programming/Dynamic_Programming.ipynb) | ✅     |
-| Monte Carlo                                                  | ☑️     |
+| [Monte Carlo](https://github.com/andy1li/udacity-reinforcement/blob/main/monte-carlo/Monte_Carlo.ipynb) | ✅     |
 | Temporal-Difference                                          | ☑️     |
 | Discretization                                               | ☑️     |
 | Tile Coding                                                  | ☑️     |
@@ -19,3 +19,5 @@
 | Navigation                                                   | ☑️     |
 | Continuous Control                                           | ☑️     |
 | Collaboration and Competition                                | ☑️     |
+| Easy21([Questions](https://www.davidsilver.uk/wp-content/uploads/2020/03/Easy21-Johannes.pdf)) | ☑️     |
+
