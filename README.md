@@ -4,7 +4,8 @@
 | ------------------------------------------------------------ | ----- |
 | [Dynamic Programming](https://github.com/andy1li/udacity-reinforcement/blob/main/dynamic-programming/Dynamic_Programming.ipynb) | ✅     |
 | [Monte Carlo](https://github.com/andy1li/udacity-reinforcement/blob/main/monte-carlo/Monte_Carlo.ipynb) | ✅     |
-| Temporal-Difference                                          | ☑️     |
+| [Temporal-Difference](https://github.com/andy1li/udacity-reinforcement/blob/main/temporal-difference/Temporal_Difference.ipynb) | ✅     |
+| The Taxi Problem                                             | ☑️     |
 | Discretization                                               | ☑️     |
 | Tile Coding                                                  | ☑️     |
 | Deep Q-Network                                               | ☑️     |
@@ -15,9 +16,8 @@
 | Deep Deterministic Policy Gradients - Pendulum               | ☑️     |
 | Deep Deterministic Policy Gradients - BipedalWalker          | ☑️     |
 | Finance                                                      | ☑️     |
-| The Taxi Problem                                             | ☑️     |
 | Navigation                                                   | ☑️     |
 | Continuous Control                                           | ☑️     |
 | Collaboration and Competition                                | ☑️     |
-| Easy21([Questions](https://www.davidsilver.uk/wp-content/uploads/2020/03/Easy21-Johannes.pdf)) | ☑️     |
+| Easy21 ([Questions](https://www.davidsilver.uk/wp-content/uploads/2020/03/Easy21-Johannes.pdf)) | ☑️     |
 
