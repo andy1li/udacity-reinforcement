@@ -8,7 +8,7 @@ def interact(env, agent, num_episodes=20000, window=100):
     
     Params
     ======
-    - env: instance of OpenAI Gym's Taxi-v1 environment
+    - env: instance of OpenAI Gym's Taxi-v3 environment
     - agent: instance of class Agent (see Agent.py for details)
     - num_episodes: number of episodes of agent-environment interaction
     - window: number of episodes to consider when calculating average rewards

@@ -4,8 +4,8 @@
 | ------------------------------------------------------------ | ----- |
 | [Dynamic Programming](https://github.com/andy1li/udacity-reinforcement/blob/main/dynamic-programming/Dynamic_Programming.ipynb) | ✅     |
 | [Monte Carlo](https://github.com/andy1li/udacity-reinforcement/blob/main/monte-carlo/Monte_Carlo.ipynb) | ✅     |
-| [Temporal-Difference](https://github.com/andy1li/udacity-reinforcement/blob/main/temporal-difference/Temporal_Difference.ipynb) | ✅     |
-| The Taxi Problem                                             | ☑️     |
+| [Temporal Difference](https://github.com/andy1li/udacity-reinforcement/blob/main/temporal-difference/Temporal_Difference.ipynb) | ✅     |
+| [Lab Taxi](https://github.com/andy1li/udacity-reinforcement/blob/main/lab-taxi/agent.py) | ✅     |
 | Discretization                                               | ☑️     |
 | Tile Coding                                                  | ☑️     |
 | Deep Q-Network                                               | ☑️     |
