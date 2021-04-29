@@ -6,7 +6,7 @@
 | [Monte Carlo](https://github.com/andy1li/udacity-reinforcement/blob/main/monte-carlo/Monte_Carlo.ipynb) | ✅     |
 | [Temporal Difference](https://github.com/andy1li/udacity-reinforcement/blob/main/temporal-difference/Temporal_Difference.ipynb) | ✅     |
 | [Lab Taxi](https://github.com/andy1li/udacity-reinforcement/blob/main/lab-taxi/agent.py) | ✅     |
-| Discretization                                               | ☑️     |
+| [Discretization](https://github.com/andy1li/udacity-reinforcement/blob/main/discretization/Discretization.ipynb) | ✅     |
 | Tile Coding                                                  | ☑️     |
 | Deep Q-Network                                               | ☑️     |
 | Robotics                                                     | ☑️     |
