@@ -7,7 +7,7 @@
 | [Temporal Difference](https://github.com/andy1li/udacity-reinforcement/blob/main/temporal-difference/Temporal_Difference.ipynb) | ✅     |
 | [Lab Taxi](https://github.com/andy1li/udacity-reinforcement/blob/main/lab-taxi/agent.py) | ✅     |
 | [Discretization](https://github.com/andy1li/udacity-reinforcement/blob/main/discretization/Discretization.ipynb) | ✅     |
-| Tile Coding                                                  | ☑️     |
+| [Tile Coding](https://github.com/andy1li/udacity-reinforcement/blob/main/tile-coding/Tile_Coding.ipynb) | ✅     |
 | Deep Q-Network                                               | ☑️     |
 | Robotics                                                     | ☑️     |
 | Hill Climbing                                                | ☑️     |
